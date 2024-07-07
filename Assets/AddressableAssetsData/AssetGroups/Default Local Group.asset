@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 57758d9caaaf85949b0d7b2a0f761854
+  m_SerializeEntries:
+  - m_GUID: 1f7ca32e6bc09d040aefb5b3f08e4a1f
+    m_Address: Assets/Adressable_Prefabs/Cube1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1b6a51f525512f48858feb7009ae225
+    m_Address: Assets/Adressable_Prefabs/Sphere1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 14fbbd597911ab74583390597259f358, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0988274edbc45e04f94ab0389b8a5ead, type: 2}
+    - {fileID: 11400000, guid: 1c9189f45ce1fbd4bbc2e177da5343f6, type: 2}
